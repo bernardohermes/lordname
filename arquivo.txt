@@ -1,0 +1,5 @@
+Git é um sistema para controle de versão de arquivos. Com ele pode-se desenvolver um projeto simultaneamente
+com outras pessoas, editando e criando novos arquivos. Ele é de muito valor para que se você queira 
+restaurar uma versão anterior, ou modificá-la. Ela estará a salvo no git. Sem essa ferramenta, voce poderia perder
+facilmente esse acesso tendo que recomeçar novamente caso quisesse o resultado anterior. Ou até mesmo posterior. 
+Caso alguma modificação tivesse sido feita.
